@@ -1,0 +1,20 @@
+{
+  "name": "react-spinner-project",
+  "version": "1.0.0",
+  "description": "CSS spinners for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breakdaiz/react-create-spinners.git"
+  },
+  "keywords": ["react", "css", "spinners"],
+  "author": "Bernard Rayoso Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/breakdaiz/react-create-spinners/issues"
+  },
+  "homepage": "https://github.com/breakdaiz/react-create-spinners#readme"
+}
