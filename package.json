@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/breakdaiz/react-create-spinners.git"
   },
-  "keywords": ["react", "css", "spinners"],
+  "keywords": [
+    "react",
+    "css",
+    "spinners"
+  ],
   "author": "Bernard Rayoso Jr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/breakdaiz/react-create-spinners/issues"
   },
-  "homepage": "https://github.com/breakdaiz/react-create-spinners#readme"
+  "homepage": "https://github.com/breakdaiz/react-create-spinners#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
 }
